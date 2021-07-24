@@ -19,25 +19,22 @@ output: html_document
 
 # **Introduction**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Hello! My name is Pao Min. This is my research website. My area of interest is in household finance and financial technology. I do yoga and birding when I have free time.
 
-## How to use
+### Current research project
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Financial technology and heterogeneous households. 
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Local volatility model. 
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+###### Spotted owlets near Bangkok (July 2021)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+
+![](owlets.jpeg)
 </a>
 </div>
