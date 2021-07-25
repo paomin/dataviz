@@ -25,7 +25,7 @@ Hello! My name is Pao Min. This is my research website. My area of interest is i
 
 1. Financial technology and heterogeneous households. 
 
-2. Local volatility model..
+2. Local volatility model.
 
 3. Community finance.
 
